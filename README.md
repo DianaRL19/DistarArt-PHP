@@ -12,6 +12,9 @@
 [![API REST](https://img.shields.io/badge/API-REST%20JSON-F39C12?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/DianaRL19/DistarArt-PHP)
 [![MVC](https://img.shields.io/badge/Arquitectura-MVC%20Propio-6C39D8?style=for-the-badge&logo=blueprint&logoColor=white)](https://github.com/DianaRL19/DistarArt-PHP)
 
+Proyecto final para la asignatura de Desarrollo Web en Entorno Servidor.
+
+
 </div>
 
 ---
