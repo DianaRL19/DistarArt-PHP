@@ -10,7 +10,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-8.x-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
 [![TCPDF](https://img.shields.io/badge/TCPDF-PDF%20Export-E74C3C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://tcpdf.org)
 [![API REST](https://img.shields.io/badge/API-REST%20JSON-F39C12?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/DianaRL19/DistarArt-PHP)
-[![MVC](https://img.shields.io/badge/Arquitectura-MVC%20Pedorsa[propio]-6C39D8?style=for-the-badge&logo=blueprint&logoColor=white)](https://github.com/DianaRL19/DistarArt-PHP)
+[![MVC](https://img.shields.io/badge/Arquitectura-MVC%20Pedrosa[propio]-6C39D8?style=for-the-badge&logo=blueprint&logoColor=white)](https://github.com/DianaRL19/DistarArt-PHP)
 
 *Proyecto final para la asignatura de Desarrollo Web en Entorno Servidor.*
 
