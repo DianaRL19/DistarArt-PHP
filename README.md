@@ -200,9 +200,9 @@ http://localhost/
 
 ---
 
-## Framework MVC propio
+## Framework Pedrosa MVC 
 
-DistarArt no usa ningún framework externo. El proyecto incluye un **mini-framework MVC** desarrollado desde cero con las siguientes características:
+DistarArt no usa ningún framework externo. El proyecto incluye un **mini-framework MVC** desarrollado por un profesor de desarrollo en entorno servidor con las siguientes características:
 
 - **Autoload de clases** basado en convención de nombres
 - **Enrutado automático** por URL: `/controlador/accion/param`
@@ -211,12 +211,6 @@ DistarArt no usa ningún framework externo. El proyecto incluye un **mini-framew
 - **Sistema de widgets** reutilizables (grid, paginador, caja)
 - **ACL en base de datos** con roles y permisos booleanos
 - **Generador HTML** (`CHTML`) para construir interfaces desde PHP
-
----
-
-## Capturas
-
-> *(Próximamente — screenshots de la galería, detalle de obra, formulario de encargos y exportación PDF)*
 
 ---
 
