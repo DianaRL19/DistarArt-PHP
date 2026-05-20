@@ -6,11 +6,11 @@
 
 **Plataforma web para artistas digitales** · Gestión de obras, encargos y galería pública
 
-[![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=flat&logo=php&logoColor=white)](https://php.net)
-[![MySQL](https://img.shields.io/badge/MySQL-8.x-4479A1?style=flat&logo=mysql&logoColor=white)](https://mysql.com)
-[![TCPDF](https://img.shields.io/badge/TCPDF-PDF%20Export-red?style=flat)](https://tcpdf.org)
-[![API REST](https://img.shields.io/badge/API-REST%20JSON-orange?style=flat)](https://github.com/DianaRL19/DistarArt-PHP)
-[![MVC](https://img.shields.io/badge/Arquitectura-MVC%20Propio-blueviolet?style=flat)](https://github.com/DianaRL19/DistarArt-PHP)
+[![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
+[![MySQL](https://img.shields.io/badge/MySQL-8.x-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+[![TCPDF](https://img.shields.io/badge/TCPDF-PDF%20Export-E74C3C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://tcpdf.org)
+[![API REST](https://img.shields.io/badge/API-REST%20JSON-F39C12?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/DianaRL19/DistarArt-PHP)
+[![MVC](https://img.shields.io/badge/Arquitectura-MVC%20Propio-6C39D8?style=for-the-badge&logo=blueprint&logoColor=white)](https://github.com/DianaRL19/DistarArt-PHP)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ## ¿Qué es DistarArt?
 
-DistarArt es una aplicación web desarrollada en PHP puro con un **framework MVC de mi profesor**, pensada para que artistas digitales puedan publicar su trabajo, gestionar encargos de clientes y mostrar su portfolio al mundo.
+DistarArt es una aplicación web desarrollada en PHP puro con el **framework PEDROSA**, pensada para que artistas digitales puedan publicar su trabajo, gestionar encargos de clientes y mostrar su portfolio al mundo.
 
 La plataforma combina funcionalidades de red social artística (galería pública, favoritos, valoraciones) con herramientas de gestión profesional (encargos con presupuesto e IVA, clientes API, exportación PDF) y se conecta con la **API pública del Museo Metropolitano de Arte de Nueva York** para ofrecer una sección de inspiración.
 
